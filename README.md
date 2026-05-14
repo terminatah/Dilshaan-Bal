@@ -1,1 +1,2 @@
 https://wokwi.com/projects/455725785722081281# Dilshaan-Bal(AIRGUARD PRO IOT)
+AirGuard Pro is a closed-loop IoT air quality monitoring system built on ESP32 that continuously measures PM2.5 and gas levels using a Sharp dust sensor and MQ-135. It automatically triggers an exhaust fan within 2 seconds when pollutant thresholds are breached, and streams real-time AQI data to a ThingSpeak cloud dashboard. All readings are also displayed locally on an OLED screen for instant on-site feedback.
